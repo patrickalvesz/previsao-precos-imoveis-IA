@@ -1,2 +1,2 @@
 # Pasta docs
-Contém o notebook.
+Relatórios do projeto.
