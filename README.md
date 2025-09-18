@@ -11,5 +11,4 @@ Projeto da disciplina **Inteligência Artificial** (7º semestre – Mackenzie) 
 ## Estrutura
 - `/docs` → Relatório do projeto  
 - `/data` → Dataset
-- `/notebooks` → Jupyter Notebooks da análise exploratória  
-- `/src` → Scripts Python com histórico de alterações  
+- `/notebooks` → Jupyter Notebooks
