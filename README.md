@@ -3,6 +3,8 @@
 ## Descrição
 Projeto da disciplina **Inteligência Artificial** (7º semestre – Mackenzie) com foco em previsão de preços de imóveis utilizando algoritmos de regressão supervisionada.
 
+YouTube: https://www.youtube.com/watch?v=1WRPYA1jGdA
+
 ## Integrantes
 - Patrick Gonçalves – RA: 10409363  
 - Gustavo Ibara – RA: 10389067  
